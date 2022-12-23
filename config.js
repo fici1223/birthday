@@ -12,8 +12,8 @@ var config = {
         "永远漂亮美丽！",
         "早点找到宠你的男朋友",
         "抱走世界上最多的幸福❤",
-        "mua",
-        "希望今年的生日还是哈哈哈哈",
+        "拥有世界上最满的快乐❤",
+        "永远18！永远快乐！",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,10 +30,10 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "start",
-        play: "music",
-        bannar_coming: "color",
-        balloons_flying: "好像少点东西",
+        turn_on: "开始",
+        play: "音乐启奏",
+        bannar_coming: "加点调味料",
+        balloons_flying: "好像还少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
